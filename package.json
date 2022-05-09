@@ -1,0 +1,31 @@
+{
+  "name": "teamgen",
+  "version": "1.0.0",
+  "description": "Unit 10 homework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemiguel20000/symmetrical-couscous-Team_gen.git"
+  },
+  "author": "Josefernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josemiguel20000/symmetrical-couscous-Team_gen/issues"
+  },
+  "homepage": "https://github.com/josemiguel20000/symmetrical-couscous-Team_gen/tree/main#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "team"
+  ]
+}
