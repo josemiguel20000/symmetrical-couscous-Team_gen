@@ -12,3 +12,7 @@ Here is some video footage of me showing how it works and the html outcome that 
 ![App Screenshot](https://user-images.githubusercontent.com/98843560/167321205-14fc07c9-eb5d-440d-9beb-00a78b3f15ec.mp4)
 
 ![Untitled_ May 8, 2022 6_44 PM](https://user-images.githubusercontent.com/98843560/167321390-7fdf98a1-5a1f-4158-a5a8-346e5162293f.gif)
+
+This app was built utilizing Object-Oriented Programming principles, including the usage of classes and constructors to create "team member" objects based on user input. The "Inquirer" and "FS" node modules are used in the app, which is written in Node.js. Module.exports and need are used to pass files between various objects that are kept in separate.js files.
+Author 
+[@josemiguel120000](https://github.com/josemiguel20000)
