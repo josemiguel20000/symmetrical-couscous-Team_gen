@@ -9,5 +9,5 @@ Here is some video footage of me showing how it works and the html outcome that 
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://user-images.githubusercontent.com/98843560/167321205-14fc07c9-eb5d-440d-9beb-00a78b3f15ec.mp4)
 
